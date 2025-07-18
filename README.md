@@ -7,6 +7,14 @@ Este repositorio contiene el código para resolver un modelo de Ramsey heterogé
 
 El repositorio está organizado alrededor de un archivo principal y varias funciones auxiliares:
 
-### `main.jl` 🧠
+### `main.jl`
 
 Este es el archivo principal del programa. Aquí se realiza la configuración general del modelo, la inicialización de parámetros y la ejecución del algoritmo de iteración de la función de valor. Es el punto de entrada del proyecto.
+
+### funciones auxiliares:
+
+1. Bellman.jl calcula la ecuación de bellman dados dos estados iniciales, es decir, X1 y X2. 
+
+2. Golden_state.js calcula un interpolador entre un V1 y V2. 
+
+3. 
