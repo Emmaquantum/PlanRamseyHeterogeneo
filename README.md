@@ -17,4 +17,4 @@ Este es el archivo principal del programa. Aquí se realiza la configuración ge
 
 2. Golden_state.js calcula un interpolador entre un V1 y V2. 
 
-3. 
+3. Utility.jl calcula la función de utilidad.
