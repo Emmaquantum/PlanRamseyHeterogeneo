@@ -15,6 +15,6 @@ Este es el archivo principal del programa. Aquí se realiza la configuración ge
 
 1. Bellman.jl calcula la ecuación de bellman dados dos estados iniciales, es decir, X1 y X2. 
 
-2. Golden_section.js calcula un interpolador entre un V1 y V2. 
+2. Golden_section.js es el optimizador de máximos.
 
 3. Utility.jl calcula la función de utilidad.
